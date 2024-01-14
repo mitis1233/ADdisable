@@ -1,2 +1,2 @@
 # ADdisable
-hosts ad block
+Lucky Patcher hosts
