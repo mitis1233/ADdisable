@@ -1,0 +1,2 @@
+# ADdisable
+hosts ad block
