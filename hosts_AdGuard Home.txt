@@ -20480,7 +20480,7 @@
 ||ad.leadboltapps.net^
 ||api.airpush.com^
 ||media.motrixi.com^
-||ads.n-ws.org ^
+||ads.n-ws.org^
 ||cdn.ons.ms^
 ||b.scorecardresearch.com^
 ||asotrack1.fluentmobile.com^
