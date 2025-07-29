@@ -1,0 +1,145 @@
+! 2019/3/1 https://apk.tw
+apk.tw###dialog01
+apk.tw###fullbg01
+www.tw-goldenwinner-57.com
+my-free-gift.ga
+
+! 2019/3/27 https://m.facebook.com
+m.facebook.com###header-notices
+
+! 2019/4/23 https://bbs.nga.cn
+bbs.nga.cn##body > div:nth-of-type(4)
+
+! 2019-5-9 https://ahri.club
+ahri.club##div.col-lg-12:nth-of-type(3)
+ahri.club##div.col-lg-12:nth-of-type(2)
+ahri.club###content > .col-lg-12
+ahri.club###imageColorSetting
+
+! 2019/12/10 https://www.vrchat.com
+www.vrchat.com###JumpMainDomain
+
+! 2019/12/13 http://512539700c.top
+512539700c.top##.fa-sliders.fa
+512539700c.top###imageColorSetting
+512539700c.top###myBtn
+
+! 2020/1/15 https://www.ptt.cc
+www.ptt.cc###navigation-container
+
+! 2020/2/7 https://m.bbs.mihoyo.com
+m.bbs.mihoyo.com##.app-guide
+
+! 2020/2/21 http://216234234234c.top
+216234234234c.top##.fa-sliders.fa
+216234234234c.top###imageColorSetting
+216234234234c.top###myBtn
+
+! 2020/4/13 https://m.gamer.com.tw
+m.gamer.com.tw##.download-app_box01
+
+! 2020/5/30 http://493428493428c.monster
+493428493428c.monster##.fa-sliders.fa
+493428493428c.monster###imageColorSetting
+493428493428c.monster###myBtn
+
+! 2020/6/10 http://67091c.monster
+67091c.monster###imageColorSetting
+67091c.monster###myBtn
+
+! 2020/8/22 https://ahri-hentai.com
+ahri-hentai.com###imageColorSetting
+ahri-hentai.com##.float-banner-footer
+ahri-hentai.com###myBtn
+
+! 2020/9/21 https://webstatic.mihoyo.com
+||webstatic.mihoyo.com/bh3/event/e20200921data/images/share-bg-common.2148b42b.png$image
+
+! 2020/12/6 https://www.sinya.com.tw
+www.sinya.com.tw##.fb_iframe_widget_fluid.fb_iframe_widget.fb_invisible_flow.fb-customerchat > span
+
+! 2020/12/12 https://www.playpcesor.com
+www.playpcesor.com###ztb-slide-box-widget
+
+! 2020/12/31 https://amp.reddit.com
+amp.reddit.com##.App > div:nth-of-type(5)
+
+! 2021/1/6 https://www.dcard.tw
+www.dcard.tw##.ceqrDc.mzvrh3-1
+www.dcard.tw##.fVKCzS.sc-1d5j8jj-1
+www.dcard.tw##.durqrl.mzvrh3-0
+www.dcard.tw##.jwdYYi.cu81fo-0
+
+! 2021/1/15 https://www.1111.com.tw
+www.1111.com.tw##.hidden-sm.hidden-md.hidden-lg.float
+
+! 2021/2/6 https://genshin.mingyulab.com
+genshin.mingyulab.com###outdated
+
+! 2021/2/14 https://www.plytic.com
+www.plytic.com###appconsent > iframe
+
+! 2021/3/4 http://baijiahao.baidu.com
+baijiahao.baidu.com##.layer-wrap
+baijiahao.baidu.com##.headDeflectorContainer
+
+! 2021/4/2 https://www.dcard.tw
+www.dcard.tw##.cgecxk.OverlayBackdrop-sc-1gn7524
+
+! 2021/4/2 https://openwrt.org
+openwrt.org##.cookielaw-bottom.cookielaw-banner
+
+! 2021/6/20 https://www.epochtimes.com
+www.epochtimes.com##.fixed.hot_post.fix_top
+
+! 2021/7/9 https://forum.ragezone.com
+forum.ragezone.com##.active.TapatalkBanner
+
+! 2021/11/8 https://home.gamer.com.tw
+home.gamer.com.tw##.image-status-bar
+
+! 2021/11/27 https://steamdb.info
+steamdb.info##toast-notification
+
+! 2022/6/14 https://m.gamer.com.tw
+m.gamer.com.tw##.open-app
+
+! 2022/6/17 https://ahri8.top
+ahri8.top###imageColorSetting
+ahri8.top###\31 x1_container_close
+ahri8.top###\31 x1_container
+
+! 2022/7/26 https://ahri8.top
+ahri8.top###myBtn
+
+! 2022/9/28 https://www.google.com
+www.google.com##.eofmDb.mB14jb.gdwOPe.it9gVe.VDgVie.FAVrq
+
+! 2023/1/29 https://m.gamer.com.tw
+m.gamer.com.tw##.article-nav-bottom
+
+! 2023/2/4 https://m.gamer.com.tw
+m.gamer.com.tw##.baha_quicktool
+
+! 2024/3/4 https://m.mobile01.com
+||api.popin.cc/iframe/code.html?id=mobile01_standard&url=https://www.mobile01.com/topicdetail.php&containerId=_popIn_recommend_standard$subdocument
+
+! 2024/4/13 https://www.facebook.com
+www.facebook.com##.bottom.fixed-container.m
+
+! 2025/3/23 https://m.gamer.com.tw
+m.gamer.com.tw###div-gpt-ad-banner
+
+! 2025/5/1 https://18comic.vip
+18comic.vip##div:nth-of-type(15) > iframe
+18comic.vip##.panel-default.panel > div:nth-of-type(2)
+18comic.vip##body > div:nth-of-type(14)
+||18comic.vip/templates/frontend/airav/img/app_link3.png?v=3$image
+||18comic.vip/templates/frontend/airav/img/series_list.png?v=3$image
+18comic.vip###back_to_top
+
+! 2025/6/19 https://rog.asus.com
+rog.asus.com##.ComparePanel__comparePanel__BycQ3
+
+! 2025年7月25日 https://m.facebook.com
+m.facebook.com##.bottom.fixed-container.m
